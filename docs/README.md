@@ -40,6 +40,7 @@
 | LM358 | 8 |
 | CD4013 | 2 |
 | L7809CV | 1 |
+| ATMEGA328P Nano Board | 1 |
 
 ### TRANSISTORS
 
