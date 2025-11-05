@@ -60,11 +60,11 @@
 
 | Part | Code | Qt. |
 | :-- | :--: | --: |
-| Banana | Ban | 31 |
-| Potentiometer | ALPHA | 32 |
+| 4MM Banana | Generic | 31 |
+| Potentiometer | RD901F-40-15K-B100K | 32 |
 | Stereo Jack | PJ-324 | 5 |
-| 2.1mm Jack | Jack | 1 |
-| DIP Switch | DIP | 2 |
+| 2.1mm Jack | A-4118 | 1 |
+| DIP Switch | DI-R02 | 2 |
 
 ### SOCKETS
 
