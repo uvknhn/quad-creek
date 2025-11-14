@@ -37,7 +37,7 @@
 | Chip | Qt. |
 | :-- | --: |
 | TL082 | 6 |
-| LM358 | 8 |
+| LM358 | 7 |
 | CD4013 | 2 |
 | L7809CV | 1 |
 | ATMEGA328P Nano Board | 1 |
