@@ -7,6 +7,6 @@
 
 [ASSEMBLY GUIDE](https://github.com/uvknhn/quad-creek/blob/main/docs/README.md)
 
-Here's the page for my instrument, Quad Creek. The gerber files are available under the GNU GPLv3. Additionally you'll find a BOM in the build guide, which should be useful if you're building one. If you have any questions, email me at uvknhn@tutanota.com.
+Here's the page for my instrument, Quad Creek. The gerber files and schematics are available under the GNU GPLv3. Additionally you'll find a BOM in the build guide, which should be useful if you're building one. If you have any questions, email me at uvknhn@tutanota.com.
 
 You can find the manual and other documentation on my webpage.
