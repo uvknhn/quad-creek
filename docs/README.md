@@ -2,7 +2,7 @@
 
 ![PCB_Step_0](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_0.jpg)
 
-Welcome! Here I'll walk you through the basic steps of how to solder a Quad Creek. This is NOT a beginner project, you don't have to be a seasoned veteran, but if this is your first time soldering, stop. I go over my general way of soldering, you don't have to do it exactly how I do, but this way is most efficient and easy for me. Solder with care. If you just got the PCB and not the DIY kit, refer to the BOM at the bottom of this page.
+Welcome! Here I'll walk you through the basic steps of how to solder a Quad Creek. This is NOT a beginner project, you don't have to be a seasoned veteran, but if this is your first time soldering, stop. Here I'll go over my general way of soldering, you don't have to do it exactly how I do, but this way is most efficient and easy for me. Solder with care. If you just got the PCB and not the DIY kit, refer to the BOM at the bottom of this page.
 
 ## Resistors & Diodes
 ![PCB_Step_1](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_1.jpg)
