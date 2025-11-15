@@ -1,8 +1,33 @@
 # How to assemble your Quad Creek kit/PCB
 
-## 1. Resistors & Capacitors
-![PCB_Step_0](https://raw.github.com/uvknhn/quad-creek/blob/main/docs/img/PCB_Step_0.jpg)
-test123
+## 0. The PCB
+![PCB_Step_0](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_0.jpg)
+
+
+## 1. Resistors & Diodes
+![PCB_Step_1](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_1.jpg)
+
+
+## 2. Capacitors
+![PCB_Step_2](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_2.jpg)
+
+
+## 3. IC Sockets, Transistors, & More
+![PCB_Step_3](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_3.jpg)
+
+
+## 4. Aux Jacks & Power Jack
+![PCB_Step_4](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_4.jpg)
+
+
+## 5. Potentiometers
+![PCB_Step_5](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_5.jpg)
+
+
+## 6. Final Steps
+
+
+
 ## BILL OF MATERIALS
 
 ### RESISTORS
