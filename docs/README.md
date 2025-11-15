@@ -1,6 +1,8 @@
 # How to assemble your Quad Creek kit/PCB
 
-![1](https://raw.github.com/uvknhn/Beam-Catcher/main/v1/1.jpg)
+## 1. Resistors & Capacitors
+![1](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_0.jpg)
+All but four of the capacitors are .1uF, these are where the 1uF capacitors go. The sockets labeled "DC" by the IC chip and the unlabeled sockets near the potentiometers are 1uF. If uncertain, refer to the image - the yellower "105" MLCC are 1uF, the darker orange "104" ceramic capacitors are .1uF.
 
 ## BILL OF MATERIALS
 
