@@ -1,9 +1,8 @@
 # How to assemble your Quad Creek kit/PCB
 
 ## 1. Resistors & Capacitors
-![1](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_0.jpg)
-All but four of the capacitors are .1uF, these are where the 1uF capacitors go. The sockets labeled "DC" by the IC chip and the unlabeled sockets near the potentiometers are 1uF. If uncertain, refer to the image - the yellower "105" MLCC are 1uF, the darker orange "104" ceramic capacitors are .1uF.
-
+![PCB_Step_0](https://raw.github.com/uvknhn/quad-creek/blob/main/docs/img/PCB_Step_0.jpg)
+test123
 ## BILL OF MATERIALS
 
 ### RESISTORS
@@ -63,7 +62,7 @@ All but four of the capacitors are .1uF, these are where the 1uF capacitors go. 
 
 | Part | Code | Qt. |
 | :-- | :--: | --: |
-| 4MM Banana | Generic | 31 |
+| 4MM Banana | Generic | 32 |
 | Potentiometer | RD901F-40-15K-B100K | 32 |
 | Stereo Jack | PJ-324 | 5 |
 | 2.1mm Jack | A-4118 | 1 |
