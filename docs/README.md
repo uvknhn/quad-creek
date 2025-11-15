@@ -2,7 +2,7 @@
 
 ## 0. The PCB
 ![PCB_Step_0](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_0.jpg)
-
+Solder with care. If you just got the PCB and not the DIY kit, refer to the BOM at the bottom of this page.
 
 ## 1. Resistors & Diodes
 ![PCB_Step_1](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_1.jpg)
