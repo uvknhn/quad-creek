@@ -25,6 +25,11 @@ To solder the stereo aux jacks, I solder one pin to begin, then gently push the 
 Soldering the poteniometers is a similar process to the aux. What I do is insert the potentiometers, solder just one pin on each pot, then when they've all had one joint soldered, I flip the board over and solder all 96 potentiometer pins from the bottom side. Do not solder the anchoring legs on the side until you're sure they're aligned enough to fit on the panel. You also don't need to solder them at all if you plan on screwing every potentiometer nut into the front panel.
 
 ## Final Steps
+
+
+![PCB_Step_6](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_6.jpg)
+![PCB_Step_7](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_7.jpg)
+
 Once all your soldering is complete, test your quad creek. Turn the 5 mixer channels all the way counterclockwise, turn the 4 knobs at the tops of the creeks up the same, set the ones directly below those to about halfway, and see if there is sound coming out of the three outputs. If that works, I'd screw in all the banana jacks, the nylon standoffs, and do further testing with some banana plugs. Then once you have tested/feel confident it works, install the panel and enjoy!
 
 ## BILL OF MATERIALS
@@ -99,3 +104,10 @@ Once all your soldering is complete, test your quad creek. Turn the 5 mixer chan
 | 15 Pin Socket | 2 |
 | 14 Pin DIP Socket | 2 |
 | 8 Pin DIP Socket | 13 |
+
+### Mechanical
+| Type | Qt. |
+| :-- | --: |
+| M3×15mm Nylon Standoff | 12? |
+| M3×4mm Screw | 12? |
+| M3×10mm Screw | 12? |
