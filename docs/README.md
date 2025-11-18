@@ -108,6 +108,6 @@ Once all your soldering is complete, test your quad creek. Turn the 5 mixer chan
 ### Mechanical
 | Type | Qt. |
 | :-- | --: |
-| M3×15mm Nylon Standoff | 16? |
-| M3×4mm Screw | 16? |
-| M3×10mm Screw | 16? |
+| M3×15mm Nylon Standoff | 19 |
+| M3×4mm Screw | 19 |
+| M3×10mm Screw | 19 |
