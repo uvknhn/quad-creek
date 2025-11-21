@@ -1,5 +1,5 @@
 # Quad Creek
-[![Watch the video](https://raw.githubusercontent.com/uvknhn/quad-creek/main/thumb.jpg)](https://www.youtube.com/watch?v=)
+[![Watch the video](https://raw.githubusercontent.com/uvknhn/quad-creek/main/thumb.jpg)](https://www.youtube.com/watch?v=D_fRNRYVuKw)
 
 [Webpage](https://loess-labs.net/inst/creek/)
 
