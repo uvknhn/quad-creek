@@ -92,7 +92,7 @@ A note on installing the banana jacks: Be wary not to overtighten. When tighteni
 
 | Part | Code | Qt. |
 | :-- | :--: | --: |
-| 4MM Banana | Generic | 32 |
+| 4MM Banana | [Generic/Unknown](https://www.aliexpress.us/item/3256807503214936.html) | 32 |
 | Potentiometer | RD901F-40-15K-B100K | 32 |
 | Stereo Jack | PJ-324 | 5 |
 | 2.1mm Jack | A-4118 | 1 |
@@ -105,6 +105,14 @@ A note on installing the banana jacks: Be wary not to overtighten. When tighteni
 | 15 Pin Socket | 2 |
 | 14 Pin DIP Socket | 2 |
 | 8 Pin DIP Socket | 13 |
+
+### Knobs
+| Part | Code | Qt. |
+| :-- | :--: | --: |
+| Black Knob | [A-6351](https://www.taydaelectronics.com/black-control-knob-9-8x11mm-shaft-hole-6x18t.html)/["Stubby"](https://www.thonk.co.uk/shop/stubby-knobs-t18/) | 9 |
+| Blue Knob | [A-6352](https://www.taydaelectronics.com/blue-control-knob-9-8x11mm-shaft-hole-6x18t.html) | 7 |
+| Green Knob | [A-6353](https://www.taydaelectronics.com/green-control-knob-9-8-x-11mm-shaft-hole-6x18t.html) | 9 |
+| Purple Knob | [A-5666](https://www.taydaelectronics.com/purple-control-knob-9-8-x-11mm-shaft-hole-6x18t-5666.html) | 7 |
 
 ### Mechanical
 | Type | Qt. |
