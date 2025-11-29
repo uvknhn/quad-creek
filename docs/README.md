@@ -31,7 +31,7 @@ Soldering the poteniometers is a similar process to the aux. What I do is insert
 ![PCB_Step_7](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_7.jpg)
 
 Once all your soldering is complete, test your quad creek. Turn the 5 mixer channels all the way counterclockwise, turn the 4 knobs at the tops of the creeks up the same, set the ones directly below those to about halfway, and see if there is sound coming out of the three outputs. If that works, I'd screw in all the banana jacks, the nylon standoffs, and do further testing with some banana plugs. Then once you have tested/feel confident it works, install the panel and enjoy!
-A note on installing the banana jacks: Be wary not to overtighten. When tightening, hold the jack in place by applying downward pressure to the top of the jack, rather than holding from the sides. This prevents the plastic part at the top from being threaded and stripped out.
+**A note on installing the banana jacks:** Be wary not to overtighten. When tightening, hold the jack in place by applying downward pressure to the top of the jack, rather than holding from the sides. This prevents the plastic part at the top from being cross threaded and/or stripped out.
 
 ## BILL OF MATERIALS
 
