@@ -22,7 +22,7 @@ To solder the stereo aux jacks, I solder one pin to begin, then gently push the 
 
 ## Potentiometers
 ![PCB_Step_5](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_5.jpg)
-Soldering the poteniometers is a similar process to the aux. What I do is insert the potentiometers, solder just one pin on each pot, then when they've all had one joint soldered, I flip the board over and solder all 96 potentiometer pins from the bottom side. Do not solder the anchoring legs on the side until you're sure they're aligned enough to fit on the panel. You also don't need to solder them at all if you plan on screwing every potentiometer nut into the front panel.
+**A note before soldering the potentiometers:** Use pliers or snippers to remove the small notch on top of the potentiometer, directly in front of the shaft. Soldering the poteniometers is a similar process to the aux. What I do is insert the potentiometers, solder just one pin on each pot, then when they've all had one joint soldered, I flip the board over and solder all 96 potentiometer pins from the bottom side. Do not solder the anchoring legs on the side until you're sure they're aligned enough to fit on the panel. You also don't need to solder them at all if you plan on screwing every potentiometer nut into the front panel.
 
 ## Final Steps
 
