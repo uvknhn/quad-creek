@@ -35,6 +35,8 @@ Once all your soldering is complete, test your quad creek. Turn the 5 mixer chan
 
 Also, if you got a PCB with no panel, or you simply want a custom panel, I've added a PDF with all of the holes from the original panel, which you can use as a reference for drilling and such.
 
+There is also a PDF for the back panel, for drilling holes aligning with the standoffs.
+
 ## BILL OF MATERIALS
 
 ### RESISTORS
