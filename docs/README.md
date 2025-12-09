@@ -33,6 +33,8 @@ To solder the stereo aux jacks, I solder one pin to begin, then gently push the 
 Once all your soldering is complete, test your quad creek. Turn the 5 mixer channels all the way counterclockwise, turn the 4 knobs at the tops of the creeks up the same, set the ones directly below those to about halfway, and see if there is sound coming out of the three outputs. If that works, I'd screw in all the banana jacks, the nylon standoffs, and do further testing with some banana plugs. Then once you have tested/feel confident it works, install the panel and enjoy!
 **A note on installing the banana jacks:** Be wary not to overtighten. When tightening, hold the jack in place by applying downward pressure to the top of the jack, rather than holding from the sides. This prevents the plastic part at the top from being cross threaded and/or stripped out.
 
+Also, if you got a PCB with no panel, or you simply want a custom panel, I've added a PDF with all of the holes from the original panel, which you can use as a reference for drilling and such.
+
 ## BILL OF MATERIALS
 
 ### RESISTORS
