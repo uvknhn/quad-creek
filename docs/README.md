@@ -12,6 +12,10 @@ Solder these from the top. Make sure the diode band is on the same side as the s
 ![PCB_Step_2](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_2.jpg)
 Also solder these from the top. Make sure the numbers match.
 
+![106\10uF Capacitor](https://raw.github.com/uvknhn/quad-creek/main/docs/img/106.jpg)
+
+Note the 10uF (106) capacitor that is soldered on the underside.
+
 ## IC Sockets, Transistors, & More
 ![PCB_Step_3](https://raw.github.com/uvknhn/quad-creek/main/docs/img/PCB_Step_3.jpg)
 To solder the IC sockets, insert, and then fold two opposite corner pins to secure the socket in place, and solder from the bottom. Ensure the notches are aligned, so no ICs are unintentionally placed upside-down. I solder the transistors from the bottom. You can do them from the top, but it's harder that way. Do not solder the voltage regulator backwards; very bad, high-temperature things happen when you do. Don't forget to do the jumpers either, you can use scrap leads to wire them as pictured.
